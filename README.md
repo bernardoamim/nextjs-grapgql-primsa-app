@@ -1,3 +1,5 @@
-# Awesome Links - part-1
+# App to combine Next.js, GraphQL and Prisma with a PostgreSQL on a Docker Container
 
-This branch has the same starting point as [this article](https://prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
+## All things from prisma crash course.
+
+
